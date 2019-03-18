@@ -4,4 +4,8 @@ welcome to jyothi kitchen
 Kheer
 pasta
 chicken
+
+Beans
+pizza
+
 thank you
